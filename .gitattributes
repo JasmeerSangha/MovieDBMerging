@@ -1,4 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-git lfs track "the_movies_dataset/ratings.csv"
-git lfs track "the_movies_dataset/credits.csv"
+
