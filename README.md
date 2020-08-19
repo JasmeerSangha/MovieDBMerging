@@ -1,4 +1,4 @@
-# Movies-ETL
+# Merging Multiple Movie Databases
 ## Overview
 Asked to retreive and merge Wikipedia and Kaggle data focussed on movies. The resulting database will be used for future hackathon participants to experiment with. For convenince, challenge.ipynb has been created to automate any merging of future data assuming similar make-up.
 
